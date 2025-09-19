@@ -1,4 +1,5 @@
 # Economic Data Analysis Project Using API Data From Fred Website
+# Using Python (pandas, numpy, matplotlib) libraries
 ## Description:
 ### Install 'fredapi', add my API key, and create a fred object.
 ### Search and pull rows of economic data.
