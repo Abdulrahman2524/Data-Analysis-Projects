@@ -2,9 +2,9 @@
 
 ## This project, aimed at analyzing warehouse data, allows us to uncover valuable insights, identify bottlenecks, and make informed choices to optimize processes.
 
-### By using SQL to generate a query, I have created views to use it in Power BI.
+## By using SQL to generate a query, I have created views to use it in Power BI.
 
-# Key Performance Indicators (KPIs)
+## Key Performance Indicators (KPIs)
 
 ## Warehouse Utilization
 - **Empty Locations:** 8,233 (indicator of storage capacity usage).
