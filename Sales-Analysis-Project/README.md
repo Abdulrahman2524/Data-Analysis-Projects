@@ -1,4 +1,5 @@
-# Online Store Analysis Project Using Pandas Python
+# Online Store Analysis Project
+# Using Python (pandas, matplotlib) libraries
 ## Description:
 ### Merge the 12 months of sales data into a single CSV file.
 ### Read the updated DataFrame.
